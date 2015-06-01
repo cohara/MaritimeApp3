@@ -3,17 +3,17 @@
     
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.conoroh.maritime"
-    version     = "1.3.1"
-    versionCode = "16" >
+    version     = "1.4.1"
+    versionCode = "17" >
     
     <!-- versionCode is optional and Android only -->
     
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.7.0" />
     
-    <name>Irish Maritime Festival 2014 Drogheda</name>
+    <name>Irish Maritime Festival 2015 Drogheda</name>
     
     <description>
-        A complete guide to The Irish Maritime Festival 2014 Drogheda by Conor O'Hara.
+        A complete guide to The Irish Maritime Festival 2015 Drogheda by Conor O'Hara.
     </description>
     
     <author href="http://conoroh.com" email="conor.h.ohara@gmail.com">
