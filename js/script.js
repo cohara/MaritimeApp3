@@ -7,7 +7,6 @@ $( document ).on( "pageinit", function( event ) {
 '<li><a href="events.html"> <img src="icons/anchor.png"/> Programme</a></li>'+
 
 	'<li><a href="attractions.html"> <img src="icons/attractions.png"/> Tourist Attractions</a></li>'+
-	'<li><a href="food.html"> <img src="icons/food.png"/> Food & Drink</a></li>'+
 	'<li><a href="Accommodation.html"> <img src="icons/hotel.png"/> Accommodation</a></li>'+
 	'<li><a href="contact.html"> <img src="icons/contact.png"/> Contact</a></li>'+
 
