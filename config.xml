@@ -3,8 +3,8 @@
     
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.conoroh.maritime"
-    version     = "1.4.3"
-    versionCode = "19" >
+    version     = "1.4.2"
+    versionCode = "18" >
     
     <!-- versionCode is optional and Android only -->
     
